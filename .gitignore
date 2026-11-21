@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project outputs
+artifacts/
+outputs/
+**/artifacts/
+**/outputs/
